@@ -1,0 +1,23 @@
+{
+  "name": "web-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiqi0319/web-demo.git"
+  },
+  "author": "Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiqi0319/web-demo/issues"
+  },
+  "homepage": "https://github.com/shiqi0319/web-demo#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jquey": "0.0.1-security"
+  }
+}
